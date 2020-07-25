@@ -5,7 +5,7 @@
 2. **positive image:** This is the image of the object to be detected. It should be clear and contain only the object.
 3. **negative images:** These are the images of background in which the object need to be detected. These images should not conatin the object that is to be detected. For example: *for detecting cars, images of roads acts as negative images.*
 4. **Opencv Applications:** After setting up the dataset for training, we call 3 opencv applications: *opencv_createsamples, opencv_traincascade.*
-### class Name: # HaarTraining
+### class Name: HaarTraining
 
 While creating object of the class, the location of positive image, the location for folder with negative images (by default set to 'negative'), the location for folder with images with object {needed if you are creating your own .txt file} (by default set to 'positive').
 ```
