@@ -32,3 +32,5 @@ Here the first command creates, background image with object, check info folder 
 
 If you need more help, watch this:
 > [Custom Haar Cascade Training](https://www.youtube.com/watch?v=jG3bu0tjFbk)
+
+#### Thanks.
